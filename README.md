@@ -6,7 +6,7 @@ Video Walkthrough (YouTube): https://www.youtube.com/watch?v=9dmkwNeG-wE
 Cody Jolin  
 Creation Date: 11/03/2023  
 LinkedIn Profile: https://www.linkedin.com/in/cody-jolin-87882457/  
-Game Design Portfolio: https://codyjolin.wordpress.com/  
+Professional Portfolio: https://codyjolin.wordpress.com/  
 
 ## Assessment Requirements
 1) Pull Jenga stack data from provided API (there are 3 stacks for 3 different grade levels).  
