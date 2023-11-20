@@ -1,19 +1,42 @@
 # Overview
-Jenga game for Crossover "Unity Game Developer" Assessment
+Jenga Game for Crossover "Unity Game Developer" Assessment  
+Video Walkthrough (YouTube): https://www.youtube.com/watch?v=9dmkwNeG-wE  
 
 ## Author
 Cody Jolin  
-Creation Date: 2023-11-03  
+Creation Date: 11/03/2023  
 LinkedIn Profile: https://www.linkedin.com/in/cody-jolin-87882457/  
 Game Design Portfolio: https://codyjolin.wordpress.com/  
 
+## Assessment Requirements
+1) Pull Jenga stack data from provided API (there are 3 stacks for 3 different grade levels).  
+2) Build 3 Jenga stacks in a row using data from the API response to determine the block type:  
+
+* Mastery = 0  ---  Glass  
+* Mastery = 1  ---  Wood  
+* Mastery = 2  ---  Stone  
+
+3) Enable orbit controls on Mouse 1 hold so that the user can rotate the camera around the stack.  
+
+* One of the 3 stacks should always be in focus by default  
+* Add some control to switch the view between the 3 stacks  
+
+4) Add an option to get more details about a specific block (e.g. on right-click).  
+
+* Show the following details available in the API response:  
+    [Grade level]: [Domain]  
+    [Cluster]  
+    [Standard ID]: [Standard Description]  
+
+5) Implement the "Test my Stack" game mode, where glass blocks are removed from each Jenga stack and physics enabled.  
+
 ## Controls
-*Left-click hold and move mouse = Orbit camera  
-*Right-click on block = Check block info  
-*Space = Remove glass blocks and toggle gravity  
-*Space (2nd time) = Restart scene  
-*E = Move camera focus to next Jenga stack  
-*Q = Move camera focus to previous Jenga stack  
+* Left-click hold and move mouse = Orbit camera  
+* Right-click on block = Check block info  
+* Space = Remove glass blocks and toggle gravity  
+* Space (2nd time) = Restart scene  
+* E = Move camera focus to next Jenga stack  
+* Q = Move camera focus to previous Jenga stack  
 
 ## Simple Dev Log
 -Updated Unity version + created new Unity 3D Project.  
