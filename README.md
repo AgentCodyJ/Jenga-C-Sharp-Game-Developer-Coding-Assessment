@@ -1,6 +1,8 @@
 # Overview
-Jenga Game for Crossover "Unity Game Developer" Assessment  
-Video Walkthrough (YouTube): https://www.youtube.com/watch?v=9dmkwNeG-wE  
+Jenga Game for Crossover Unity Game Developer Assessment <br/>
+Video Walkthrough (YouTube): https://www.youtube.com/watch?v=9dmkwNeG-wE <br/><br/>
+<img src="https://github.com/AgentCodyJ/AgentCodyJ/blob/main/Crossover%20Unity%20Game%20Developer%20Assessment%20(November%202023).png" width="65%" alt="Crossover Unity Game Developer Assessment Image">
+
 
 ## Author
 Cody Jolin  
